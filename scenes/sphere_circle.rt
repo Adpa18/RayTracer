@@ -1,0 +1,357 @@
+<CAM>
+PX = 0
+PY = 0
+PZ = -512
+RX = 0
+RY = 0
+RZ = 0
+RANGE_MSSP = 0
+PASS_MSSP = 0
+DOF = 0
+DOF_STRENGTH = 0
+IA = 0.5
+AA = 0
+AA_LEN = 0
+SSP = 2
+SHADING_BORDER = 0
+BORDER_COLOR = 0x00000000
+THREAD = 8
+WIDTH = 100
+HEIGHT = 100
+RENDU_MODE = 1
+</CAM1>
+
+<SPHERE1>
+ID = 1
+PX = -100
+PY = 50
+PZ = 0
+RA = 20
+SP = 50
+BR = 0
+Kd = 0.5
+Ks = 0.7
+Kr = 1
+COLOR = 0xFF000000
+</SPHERE1>
+
+<SPHERE2>
+ID = 2
+PX = 100
+PY = 100
+PZ = 0
+RA = 20
+SP = 50
+BR = 0
+Kd = 0.5
+Ks = 0.7
+Kr = 1
+COLOR = 0x00FF0000
+</SPHERE2>
+
+<SPHERE3>
+ID = 3
+PX = 0
+PY = 0
+PZ = -100
+RA = 20
+SP = 50
+BR = 0
+Kd = 0.5
+Ks = 0.7
+Kr = 1
+COLOR = 0x0000FF00
+</SPHERE3>
+
+<SPHERE4>
+ID = 4
+PX = 0
+PY = 75
+PZ = 100
+RA = 20
+SP = 50
+BR = 0
+Kd = 0.5
+Ks = 0.7
+Kr = 1
+COLOR = 0xFF00FF00
+</SPHERE4>
+
+<SPHERE4>
+ID = 4
+PX = 70
+PY = -30
+PZ = 70
+RA = 25
+SP = 50
+BR = 0
+Kd = 0.5
+Ks = 0.7
+Kr = 1
+COLOR = 0xFFFFFF00
+</SPHERE4>
+
+<SPHERE4>
+ID = 4
+PX = -70
+PY = -30
+PZ = -70
+RA = 25
+SP = 50
+BR = 0
+Kd = 0.5
+Ks = 0.7
+Kr = 1
+COLOR = 0xFFFFFF00
+</SPHERE4>
+
+<CYLINDER4>
+ID = 5
+PX = 0
+PY = -30
+PZ = 0
+RZ = 90
+RX = 45
+MIN_Y = -100
+MAX_Y = 100
+MIN_Z = -15
+RA = 20
+RB = 10
+SP = 50
+BR = 0
+Kd = 0.5
+Ks = 0.7
+Kr = 0
+COLOR = 0x33FFFF00
+COLOR_IN = 0xFF8D0000
+</CYLINDER4>
+
+<PLAN1>
+ID = 4
+PX = 0
+PY = -50
+PZ = 0
+RX = 0
+RY = 1
+RZ = 0
+SX = 1
+SY = 1
+SZ = 1
+MIN_X = -1
+MAX_X = -1
+MIN_Y = -1
+MAX_Y = -1
+MIN_Z = -1
+MAX_Z = 200
+SP = 9
+BR = 0
+Kd = 0.5
+Ks = 0.3
+Kr = 1
+COLOR = 0xFFFFFF00
+COLOR_IN = 0xFF00FF00
+COLOR_SP = 0xEEE31600
+</PLAN1>
+
+<PLAN2>
+ID = 5
+PX = 0
+PY = 0
+PZ = 200
+RX = 0
+RY = 0
+RZ = -1
+SX = 1
+SY = 1
+SZ = 1
+MIN_X = -1
+MAX_X = -1
+MIN_Y = -1
+MAX_Y = -1
+MIN_Z = -1
+MAX_Z = -1
+SP = 9
+BR = 0
+Kd = 0.5
+Ks = 0.3
+Kr = 0.2
+COLOR = 0xFFFFFF00
+COLOR_SP = 0xEEE31600
+</PLAN2>
+
+<SPHERE2>
+ID = 2
+PX = 150
+PY = 20
+PZ = 20
+RX = 0
+RY = 0
+RZ = 0
+SX = 1
+SY = 1
+SZ = 1
+MIN_X = -1
+MAX_X = -1
+MIN_Y = -1
+MAX_Y = -1
+MIN_Z = -1
+MAX_Z = -1
+RA = 20
+SP = 50
+BR = 0
+Kd = 0.5
+Ks = 0.7
+Kr = 1
+COLOR = 0xFFFFFF00
+COLOR_IN = 0xFFFF0000
+COLOR_SP = 0xEEE31600
+</SPHERE2>
+
+
+<SPHERE3>
+ID = 3
+PX = 150
+PY = 0
+PZ = 50
+RX = 45
+RY = 0
+RZ = 0
+SX = 1
+SY = 1
+SZ = 1
+MIN_X = -10
+MAX_X = 10
+MIN_Y = -1
+MAX_Y = -1
+MIN_Z = -25
+MAX_Z = -1
+RA = 30
+SP = 50
+BR = 0
+Kd = 0.5
+Ks = 0.7
+Kr = 0.1
+COLOR = 0xFF000000
+COLOR_IN = 0xFFFF0000
+COLOR_SP = 0x0000FF00
+</SPHERE3>
+
+<SPHERE3>
+ID = 3
+PX = 150
+PY = 0
+PZ = 50
+RX = 45
+RY = 0
+RZ = 0
+SX = 1
+SY = 1
+SZ = 1
+MIN_X = -1
+MAX_X = -1
+MIN_Y = -10
+MAX_Y = 10
+MIN_Z = -25
+MAX_Z = -1
+RA = 30
+SP = 50
+BR = 0
+Kd = 0.5
+Ks = 0.7
+Kr = 0.1
+COLOR = 0xFF000000
+COLOR_IN = 0xFFFF0000
+COLOR_SP = 0x0000FF00
+</SPHERE3>
+
+<PLAN3>
+ID = 6
+PX = -150
+PY = 0
+PZ = 0
+RX = 1
+RY = 0
+RZ = 0
+SX = 1
+SY = 1
+SZ = 1
+MIN_X = -1
+MAX_X = -1
+MIN_Y = -1
+MAX_Y = -1
+MIN_Z = -1
+MAX_Z = 200
+SP = 9
+BR = 0
+Kd = 0.5
+Ks = 0.3
+Kr = 0.2
+COLOR = 0xFFFFFF00
+COLOR_SP = 0xEEE31600
+</PLAN3>
+
+<LIGHT1>
+PX = 0
+PY = 50
+PZ = 0
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 0.5
+COLOR = 0xFFFFFF00
+</LIGHT1>
+
+<LIGHT2>
+PX = 0
+PY = -30
+PZ = 0
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 0.5
+COLOR = 0xFFFFFF00
+</LIGHT1>
+
+<LIGHT1>
+PX = 300
+PY = 50
+PZ = 40
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 0.5
+COLOR = 0xFFFFFF00
+</LIGHT1>
+
+<LIGHT2>
+PX = 1000
+PY = -30
+PZ = 0
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 0.5
+COLOR = 0xFFFFFF00
+</LIGHT1>
+
+<LIGHT1>
+PX = 699
+PY = 50
+PZ = 100
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 0.5
+COLOR = 0xFFFFFF00
+</LIGHT1>
+
+<LIGHT2>
+PX = 100
+PY = 300
+PZ = 0
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 0.5
+COLOR = 0xFFFFFF00
+</LIGHT1>

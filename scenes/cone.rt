@@ -1,0 +1,94 @@
+<CAM1>
+PX = 0
+PY = 0
+PZ = -512
+RX = 0
+RY = 0
+RZ = 0
+</CAM1>
+
+<PLAN1>
+ID = 0
+PX = 0
+PY = -50
+PZ = 0
+RX = 0
+RY = 1
+RZ = 0
+SX = 1
+SY = 1
+SZ = 1
+MIN_X = -1
+MAX_X = -1
+MIN_Y = -1
+MAX_Y = -1
+MIN_Z = -1
+MAX_Z = -1
+SP = 9
+BR = 0.2
+Kd = 0.5
+Ks = 0.5
+COLOR = 0xFF000000
+COLOR_SP = 0xEEE31600
+</PLAN1>
+
+<CONE1>
+ID = 1
+PX = 0
+PY = -50
+PZ = 0
+RX = 0
+RY = 1
+RZ = 0
+SX = 1
+SY = 1
+SZ = 1
+MIN_X = -1
+MAX_X = -1
+MIN_Y = -1
+MAX_Y = -1
+MIN_Z = -1
+MAX_Z = -1
+SP = 9
+BR = 0.2
+Kd = 0.5
+Ks = 0.5
+COLOR = 0xFF000000
+COLOR_SP = 0xEEE31600
+</PLAN1>
+
+<PLAN2>
+ID = 2
+PX = 0
+PY = 0
+PZ = 100
+RX = 0
+RY = 0
+RZ = -1
+SX = 1
+SY = 1
+SZ = 1
+MIN_X = -1
+MAX_X = -1
+MIN_Y = -1
+MAX_Y = -1
+MIN_Z = -1
+MAX_Z = -1
+SP = 9
+BR = 0.2
+Kd = 0.5
+Ks = 0.5
+COLOR = 0x00FF0000
+COLOR_SP = 0xEEE31600
+</PLAN2>
+
+<LIGHT1>
+PX = 100
+PY = 200
+PZ = -200
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 1
+COLOR = 0xFFFFFF00
+</LIGHT1>

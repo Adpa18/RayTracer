@@ -1,0 +1,146 @@
+<CAM>
+PX = 0
+PY = 0
+PZ = -512
+RX = 0
+RY = 0
+RZ = 0
+RANGE_MSSP = 10
+PASS_MSSP = 1
+DOF = 0
+DOF_STRENGTH = 0
+IA = 0
+AA = 0
+AA_LEN = 0
+SSP = 1
+HEIGHT = 100
+WIDTH = 100
+SHADING_BORDER = 0
+BORDER_COLOR = 0x00000000
+THREAD = 8
+RENDU_MODE = 1
+</CAM1>
+
+<CONE1>
+ID = 1
+PX = -100
+PY = 0
+PZ = 0
+RA = 2
+RZ = 180
+MIN_Y = -50
+MAX_Y = 50
+SP = 50
+BR = 0.5
+Kd = 0.5
+Ks = 0.5
+Kr = 0
+COLOR = 0x00FFFF00
+COLOR_SP = 0xEEE31600
+</CONE1>
+
+<SPHERE4>
+ID = 4
+PX = 0
+PY = 0
+PZ = 0
+RA = -25
+SP = 50
+BR = 0
+Kd = 0.5
+Ks = 0.7
+Kr = 0
+COLOR = 0xFFFFFF00
+</SPHERE4>
+
+<CYLINDER4>
+ID = 5
+PX = 50
+PY = 0
+PZ = 0
+RZ = 0
+RX = 0
+MAX_Y = 100
+MIN_Y = -100
+RA = 20
+RB = 0
+SP = 0
+BR = 0
+Kd = 0.5
+Ks = 0.7
+Kr = 0
+COLOR = 0x33FFFF00
+COLOR_IN = 0xFF8D0000
+</CYLINDER4>
+
+<PLAN1>
+PX = 0
+PY = -50
+PZ = 0
+RX = 0
+RY = 1
+RZ = 0
+SX = 1
+SY = 1
+SZ = 1
+MIN_X = -1
+MAX_X = -1
+MIN_Y = -1
+MAX_Y = -1
+MIN_Z = -1
+MAX_Z = -1
+SP = 0
+BR = 0.2
+Kd = 0.5
+Ks = 0.5
+Kr = 0
+COLOR = 0xFFFFFF00
+COLOR_SP = 0xEEE31600
+</PLAN1>
+
+<PLAN2>
+PX = 0
+PY = 0
+PZ = 100
+RX = 0
+RY = 0
+RZ = -1
+SX = 1
+SY = 1
+SZ = 1
+MIN_X = -1
+MAX_X = -1
+MIN_Y = -1
+MAX_Y = -1
+MIN_Z = -1
+MAX_Z = -1
+SP = 0
+BR = 0.2
+Kd = 0.5
+Ks = 0.5
+Kr = 0
+COLOR = 0xFFFFFF00
+COLOR_SP = 0xEEE31600
+</PLAN2>
+
+<LIGHT>
+PX = -100
+PY = -10
+PZ = -200
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 1
+COLOR = 0xFFFFFF00
+</LIGHT>
+
+<LIGHT>
+PX = 100
+PY = 10
+PZ = -200
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 1
+COLOR = 0xFFFFFF00
+</LIGHT>

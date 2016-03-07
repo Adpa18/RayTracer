@@ -1,0 +1,109 @@
+<CAM1>
+PX = 0
+PY = 0
+PZ = -512
+RX = 0
+RY = 0
+RZ = 0
+SSP = 1
+RANGE_MSSP = 1
+PASS_MSSP = 1
+DOF = 0
+DOF_STRENGTH = 64
+AA = 16
+AA_LEN = 0
+SHADING_BORDER = 0
+BORDER_COLOR = 0x00000000
+THREAD = 4
+HEIGHT = 1000
+WIDTH = 1000
+</CAM1>
+
+<SPHERE2>
+ID_GRP = 2
+PX = 0
+PY = 0
+PZ = 0
+RX = 0
+RY = 0
+RZ = 0
+SX = 1
+SY = 1
+SZ = 1
+MIN_X = -1
+MAX_X = -1
+MIN_Y = -1
+MAX_Y = -1
+MIN_Z = -1
+MAX_Z = -1
+RA = 75
+SP = 50
+BR = 0
+Kd = 0.5
+Ks = 1
+Kr = 1
+COLOR = 0xFF003300
+COLOR_SP = 0xFFFFFF00
+TEXTURE = assets/damier.xpm
+</SPHERE2>
+
+<PLAN1>
+ID_GRP = 1
+PX = 0
+PY = -50
+PZ = 0
+RX = 0
+RY = 1
+RZ = 0
+SX = 1
+SY = 1
+SZ = 1
+MIN_X = -1
+MAX_X = -1
+MIN_Y = -1
+MAX_Y = -1
+MIN_Z = -1
+MAX_Z = -1
+RA = 0
+SP = 9
+BR = 0
+Kd = 0.5
+Ks = 1
+Kr = 1
+COLOR = 0xFFFFFF00
+COLOR_SP = 0xFFFFFF00
+DAMIER = 1
+</PLAN1>
+
+<LIGHT1>
+PX = 100
+PY = 200
+PZ = -200
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 0.4
+COLOR = 0xFFFFFF00
+</LIGHT1>
+
+<LIGHT2>
+PX = -200
+PY = 100
+PZ = -200
+RX = 20
+RY = 0
+RZ = 0
+INTENSITY = 0.3
+COLOR = 0xFF000000
+</LIGHT2>
+
+<LIGHT3>
+PX = 0
+PY = -50
+PZ = -100
+RX = 90
+RY = 0
+RZ = 0
+INTENSITY = 0.5
+COLOR = 0xFF000000
+</LIGHT3>

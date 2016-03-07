@@ -1,0 +1,183 @@
+<CAM>
+PX = 0
+PY = 0
+PZ = -512
+RX = 0
+RY = 0
+RZ = 0
+RANGE_MSSP = 1
+PASS_MSSP = 1
+DOF = 0
+DOF_STRENGTH = 0
+IA = 1
+AA = 0
+AA_LEN = 0
+SSP = 0
+THREAD = 4
+RENDU_MODE = 1
+SHADING_BORDER = 0
+BORDER_COLOR = 0x00000000
+WIDTH = 3840
+HEIGHT = 2160
+</CAM1>
+
+<SPHERE1>
+ID = 4
+PX = 0
+PY = 0
+PZ = 0
+SP = 50
+RA = 30
+BR = 0
+Kd = 0.5
+Ks = 0.3
+Kr = 1
+COLOR = 0xFFFFFF00
+COLOR_IN = 0xFF00FF00
+COLOR_SP = 0xEEE31600
+TEXTURE = assets/earth2.xpm
+</PLAN1>
+
+<PLAN1>
+ID = 4
+PX = -50
+PY = 0
+PZ = 0
+RX = 1
+RY = 1
+RZ = 0
+MIN_X = -100
+MAX_X = 100
+MIN_Y = -50
+MAX_Y = 0
+MIN_Z = -350
+MAX_Z = 0
+SP = 50
+RA = 30
+BR = 0
+Kd = 0.5
+Ks = 0.3
+Kr = 1
+COLOR = 0xFFAAAA00
+COLOR_IN = 0xFF00FF00
+COLOR_SP = 0xEEE31600
+</PLAN1>
+
+<PLAN1>
+ID = 4
+PX = 50
+PY = 0
+PZ = 0
+RX = 1
+RY = -1
+RZ = 0
+MIN_X = -100
+MAX_X = 100
+MIN_Y = -50
+MAX_Y = 0
+MIN_Z = -350
+MAX_Z = 0
+SP = 50
+RA = 30
+BR = 0
+Kd = 0.5
+Ks = 0.3
+Kr = 1
+COLOR = 0xAAFFFF00
+COLOR_IN = 0xFF00FF00
+COLOR_SP = 0xEEE31600
+</PLAN1>
+
+<PLAN1>
+ID = 4
+PX = 0
+PY = 50
+PZ = 0
+RX = -1
+RY = -1
+RZ = 0
+MIN_X = -100
+MAX_X = 100
+MIN_Y = -50
+MAX_Y = 0
+MIN_Z = -350
+MAX_Z = 0
+SP = 50
+RA = 30
+BR = 0
+Kd = 0.5
+Ks = 0.3
+Kr = 1
+COLOR = 0xAAAAFF00
+COLOR_IN = 0xFF00FF00
+COLOR_SP = 0xEEE31600
+</PLAN1>
+
+<PLAN1>
+ID = 4
+PX = 0
+PY = 50
+PZ = 0
+RX = 1
+RY = -1
+RZ = 0
+MIN_X = -100
+MAX_X = 100
+MIN_Y = -50
+MAX_Y = 0
+MIN_Z = -350
+MAX_Z = 0
+SP = 50
+RA = 30
+BR = 0
+Kd = 0.5
+Ks = 0.3
+Kr = 1
+COLOR = 0xFFAAFF00
+COLOR_IN = 0xFF00FF00
+COLOR_SP = 0xEEE31600
+</PLAN1>
+
+<LIGHT1>
+PX = -50
+PY = 0
+PZ = 0
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 0.5
+COLOR = 0xFFFFFF00
+</LIGHT1>
+
+<LIGHT2>
+PX = 50
+PY = 0
+PZ = 0
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 0.5
+COLOR = 0xFFFFFF00
+</LIGHT1>
+
+<LIGHT1>
+PX = 0
+PY = 50
+PZ = 0
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 0.5
+COLOR = 0xFFFFFF00
+</LIGHT1>
+
+<LIGHT2>
+PX = 0
+PY = -50
+PZ = 0
+RX = 0
+RY = 0
+RZ = 0
+INTENSITY = 0.5
+COLOR = 0xFFFFFF00
+</LIGHT1>
