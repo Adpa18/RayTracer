@@ -27,3 +27,4 @@
 *.so binary
 *.a binary
 *.exe binary
+*.o binary
