@@ -1,23 +1,23 @@
 # RayTracer
 
-SuperSampling
-Config File
+SuperSampling <br />
+Config File <br />
 
-Limited Items
-Scalable Items
-Internal Color
-Depth of Field
-Edge Detection
-Cell Shading
-Black And White
-BMP export
+Limited Items <br />
+Scalable Items <br />
+Internal Color <br />
+Depth of Field <br />
+Edge Detection <br />
+Cell Shading <br />
+Black And White <br />
+BMP export <br />
 
-Ambiant Light
-Specular Light
-Transparency
-Reflection
-Soft Shadows
+Ambiant Light <br />
+Specular Light <br />
+Transparency <br />
+Reflection <br />
+Soft Shadows <br />
 
-Damier
-Texture
-Render Mode (normal OR random like)
+Damier <br />
+Texture <br />
+Render Mode (normal OR random like) <br />
