@@ -5,7 +5,7 @@
 ** Login   <wery_a@epitech.net>
 **
 ** Started on  Tue Nov 25 18:16:43 2014 adrien wery
-** Last update Tue Jun  9 19:03:31 2015 consta_n
+** Last update	Tue Mar 08 23:00:03 2016 Adrien WERY
 */
 
 #ifndef SYSTEM_H_
@@ -29,9 +29,6 @@
 # define BUFF_SIZE (1)
 # define END_KEY (65307)
 # define ZERO (0.00000001)
-# define DISTANCE (1000)
-# define AA (16)
-# define AA_lEN (4)
 # define DOF_STRENGH (64)
 # define MAX(x, min, max) ((x) > (max)) ? (max) : ((x) < (min)) ? (min) : (x)
 # define MAX_RGB(x) ((x) > (255)) ? (255) : (int)(x)
